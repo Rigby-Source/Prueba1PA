@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{9fc4bae0-0fd4-4256-8aa2-19cfdd13221e}">
+		<property name="name">
+			<value>SFX</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{34cb7f0c-e025-4cc5-a008-bc3c55a81c84}</destination>
+		</relationship>
+		<relationship name="effectChain">
+			<destination>{d1432cfa-c424-4fd7-9d9f-653a1508bc81}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{61ab6f16-8961-474a-93d7-6748a9459381}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{529bcfb1-1c3d-4c9b-b77f-60fa10beb0f1}</destination>
+		</relationship>
+	</object>
+	<object class="RandomizerModulator" id="{34cb7f0c-e025-4cc5-a008-bc3c55a81c84}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>50</value>
+		</property>
+	</object>
+	<object class="MixerBusEffectChain" id="{d1432cfa-c424-4fd7-9d9f-653a1508bc81}">
+		<relationship name="effects">
+			<destination>{a2751865-c582-49f2-8c84-18928444a9ed}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{61ab6f16-8961-474a-93d7-6748a9459381}" />
+	<object class="MixerBusFader" id="{a2751865-c582-49f2-8c84-18928444a9ed}" />
+</objects>

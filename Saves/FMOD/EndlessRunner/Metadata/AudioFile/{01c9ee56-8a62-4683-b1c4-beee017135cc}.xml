@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{01c9ee56-8a62-4683-b1c4-beee017135cc}">
+		<property name="assetPath">
+			<value>SFX/impact-sound-effect-8-bit-retro-151796.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.59999999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3244a184-3de9-4639-801d-b39286062f6e}</destination>
+		</relationship>
+	</object>
+</objects>
