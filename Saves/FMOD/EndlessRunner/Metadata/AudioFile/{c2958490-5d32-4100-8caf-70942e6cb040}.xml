@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c2958490-5d32-4100-8caf-70942e6cb040}">
+		<property name="assetPath">
+			<value>Music/POL-chubby-cat-short.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>17.454557823129253</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3244a184-3de9-4639-801d-b39286062f6e}</destination>
+		</relationship>
+	</object>
+</objects>

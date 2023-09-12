@@ -283,8 +283,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: 
-  sourceBankPath: 
+  sourceProjectPath: Saves/FMOD/EndlessRunner/EndlessRunner.fspro
+  sourceBankPath: Saves/FMOD/EndlessRunner/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
@@ -319,20 +319,20 @@ MonoBehaviour:
   SharedLibraryUpdateStage: 0
   SharedLibraryTimeSinceStart: 0
   CurrentVersion: 131607
-  HideSetupWizard: 0
+  HideSetupWizard: 1
   LastEventReferenceScanVersion: 131607
   Platforms:
-  - {fileID: 977529417411730804}
-  - {fileID: -5162013662806354076}
-  - {fileID: 8361739801954044484}
-  - {fileID: 2081885886724637793}
-  - {fileID: -5407355115655372379}
-  - {fileID: -8228530459594165046}
-  - {fileID: -8165721305312603621}
-  - {fileID: 6203634640209519116}
-  - {fileID: 6681836991269834071}
-  - {fileID: 3060841221232432465}
   - {fileID: 1219004329761334792}
+  - {fileID: 3060841221232432465}
+  - {fileID: 6681836991269834071}
+  - {fileID: 6203634640209519116}
+  - {fileID: -8165721305312603621}
+  - {fileID: -8228530459594165046}
+  - {fileID: -5407355115655372379}
+  - {fileID: 2081885886724637793}
+  - {fileID: 8361739801954044484}
+  - {fileID: -5162013662806354076}
+  - {fileID: 977529417411730804}
   MigratedPlatforms: 0c000000150000000b0000000a00000009000000120000000800000005000000060000000200000001000000
 --- !u!114 &977529417411730804
 MonoBehaviour:
@@ -599,15 +599,15 @@ MonoBehaviour:
     HasValue: 0
   displaySortOrder: 0
   childIdentifiers:
-  - 2fea114e74ecf3c4f920e1d5cc1c4c40
-  - 46fbfdf3fc43db0458918377fd40293e
-  - 0f8eb3f400726694eb47beb1a9f94ce8
-  - b7716510a1f36934c87976f3a81dbf3d
-  - 52eb9df5db46521439908db3a29a1bbb
-  - e7a046c753c3c3d4aacc91f6597f310d
-  - 2c5177b11d81d824dbb064f9ac8527da
-  - fd7c55dab0fce234b8c25f6ffca523c1
   - c88d16e5272a4e241b0ef0ac2e53b73d
+  - fd7c55dab0fce234b8c25f6ffca523c1
+  - 2c5177b11d81d824dbb064f9ac8527da
+  - e7a046c753c3c3d4aacc91f6597f310d
+  - 52eb9df5db46521439908db3a29a1bbb
+  - b7716510a1f36934c87976f3a81dbf3d
+  - 0f8eb3f400726694eb47beb1a9f94ce8
+  - 46fbfdf3fc43db0458918377fd40293e
+  - 2fea114e74ecf3c4f920e1d5cc1c4c40
   codecChannels:
     Value: []
     HasValue: 0
